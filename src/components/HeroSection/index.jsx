@@ -17,11 +17,11 @@ const HeroSection = () => {
                     <p className='text-lg' >Instagram</p>
                 </a>
                 <a href='https://www.linkedin.com/in/saroj-sabar-dev/' target="_blank" className='flex items-center gap-2 bg-teal-300 px-3 py-2 rounded-sm cursor-pointer ' >
-                    <i class="fa-brands fa-linkedin text-2xl"></i>
+                    <i className="fa-brands fa-linkedin text-2xl"></i>
                     <p className='text-lg' >Linkedin</p>
                 </a>
                 <a href='https://github.com/sr-81S' target="_blank" className='flex items-center gap-2 bg-teal-300 px-3 py-2 rounded-sm cursor-pointer '>
-                    <i class="fa-brands fa-github text-2xl"></i>
+                    <i className="fa-brands fa-github text-2xl"></i>
                     <p className='text-lg' >GitHub</p>
                 </a>
             </div>
