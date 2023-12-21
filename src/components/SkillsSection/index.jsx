@@ -14,27 +14,26 @@ const SkillSection = () => {
         <div className="mt-10 grid grid-cols-6 gap-4" >
             <div className='flex flex-col items-center justify-center'>
                 <img className='w-[30%]' src={react_logo} alt="react logo" />
-                <p>React Js</p>
+
             </div>
             <div className='flex flex-col items-center justify-center'>
                 <img className='w-[30%]' src={mongo_db} alt="react logo" />
-                <p>MongoDB</p>
+
             </div>
             <div className='flex flex-col items-center justify-center'>
                 <img className='w-[30%]' src={express_js} alt="react logo" />
-                <p>Express</p>
+   
             </div>
             <div className='flex flex-col items-center justify-center'>
                 <img className='w-[30%]' src={node_js} alt="react logo" />
-                <p>Node Js</p>
+  
             </div>
             <div className='flex flex-col items-center justify-center'>
                 <img className='w-[30%]' src={docker_i} alt="react logo" />
-                <p>Docker</p>
+  
             </div>
             <div className='flex flex-col items-center justify-center'>
                 <img className='w-[30%]' src={aws_pic} alt="react logo" />
-                <p>AWS</p>
             </div>
         </div>
     </section>
