@@ -3,6 +3,7 @@ import mongo_db from '../../Asset/mongoDb.png'
 import node_js from '../../Asset/nodejs.png'
 import express_js from '../../Asset/express.png'
 import docker_i from '../../Asset/docker.png'
+import aws_pic from '../../Asset/AWS-Logo-PNG-Pic.png'
 
 const SkillSection = () => {
   return (
@@ -32,8 +33,8 @@ const SkillSection = () => {
                 <p>Docker</p>
             </div>
             <div className='flex flex-col items-center justify-center'>
-                <img className='w-[30%]' src={react_logo} alt="react logo" />
-                <p>React Js</p>
+                <img className='w-[30%]' src={aws_pic} alt="react logo" />
+                <p>AWS</p>
             </div>
         </div>
     </section>
